@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Chandan Singh 👋
 
-<!--
-**chandansinghdev/chandansinghdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel & WordPress Developer with 3+ years of experience building web applications, custom CMS solutions, REST APIs, and business websites.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- WordPress
+- WooCommerce
+- MySQL
+- JavaScript
+- jQuery
+- REST APIs
+- Git & GitHub
+
+## 💼 What I Do
+
+- Laravel Web Applications
+- Custom WordPress Development
+- WooCommerce Customization
+- API Integrations
+- Database Optimization
+- Website Maintenance
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
